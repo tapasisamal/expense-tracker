@@ -42,7 +42,7 @@ The app allows users to manage daily expenses efficiently with real-time calcula
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/tapasisamal/expense-tracker
 ```
 
 ### 2. Navigate into the project folder
