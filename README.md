@@ -3,6 +3,8 @@
 A fully functional and responsive Expense Tracker application built using **React, Context API, and Tailwind CSS**.  
 The app allows users to manage daily expenses efficiently with real-time calculations and persistent storage.
 
+🌐 **Live Demo:** [Expense Tracker](https://expense-tracker-nu-lime-95.vercel.app)
+
 ---
 
 ## 🚀 Features
